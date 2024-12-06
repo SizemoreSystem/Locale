@@ -1,0 +1,12 @@
+{
+    "localeCode": "tok",
+    "authors": [
+        "Sizemore System"
+    ],
+    "messages": {
+        
+        "General.Start": "o open",
+	"General.Finish": "o pini",
+	
+    }
+}
